@@ -1,0 +1,11 @@
+/*Classes-> .*/
+.red{
+    color: rgb(43, 8, 43);
+}
+.bg-yellow{
+    background-color: rgb(171, 108, 108);
+}
+/*ID-> # */
+#myfirstID{
+    /*background-color: rgb(136, 136, 192); red only working when this is comment out*/
+}
